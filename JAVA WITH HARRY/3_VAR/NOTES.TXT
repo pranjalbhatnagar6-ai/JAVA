@@ -1,0 +1,6 @@
+Syntax
+    dataType var_name = value
+    int num = 8
+RULE
+    case sensitive
+    
